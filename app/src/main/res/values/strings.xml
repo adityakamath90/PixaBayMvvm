@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PixaBay</string>
+    <string name="no_hit">No hits returned</string>
+    <string name="toggle">Toggle</string>
+    <string name="likes">%s likes</string>
+    <string name="comments">%s comments</string>
+</resources>
